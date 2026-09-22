@@ -10,7 +10,7 @@ Penerapan material design dan formulir
 ![Proof Emulator Pertemuan 2 - Form](pertemuan2_proof2.png)
 
 ## Pertemuan 3
-Daftar dinamis menggunakan Lazy Layouts
+List produk menggunakan lazy layouts
 
 ![Proof Emulator Pertemuan 3 - Dark Mode](pertemuan3_proof1.png)
 ![Proof Emulator Pertemuan 3 - Light Mode](pertemuan3_proof2.png)
